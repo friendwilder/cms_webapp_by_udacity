@@ -1,3 +1,4 @@
+.azure/
 flask_session/
 *.swp
 *.pyc
